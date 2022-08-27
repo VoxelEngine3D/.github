@@ -1,3 +1,3 @@
 This organization holds the private and copyrighted repositories for the MYJAGAMES project.
 
-Copyright 2022, MYJAGAMES, all rights reserved.
+Copyright (c) 2022, MYJAGames, all rights reserved.
