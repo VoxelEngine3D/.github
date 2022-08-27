@@ -1,1 +1,1 @@
-Copyright 2022, MYJAGAMES, all rights reserved.
+Copyright (c) 2022, MYJAGames, all rights reserved.
